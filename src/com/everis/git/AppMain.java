@@ -1,7 +1,7 @@
 package com.everis.git;
 
 /**
- * Formación Dual - Eclipse
+ * Formacion Dual - Eclipse
  * 
  * @author fprietoa
  *
@@ -10,12 +10,13 @@ package com.everis.git;
 public class AppMain {
 	
 	/**
-	 * Método principal de la clase
+	 * Metodo principal de la clase
 	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("Hola mundo Dual");
 
 	}
 
